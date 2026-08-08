@@ -51,12 +51,12 @@
 
 ```yaml
 ┌─────────────────────────────────────────┐
-│         Vaghela Hemang  •  DEV          │
+│             Vaghela Hemang              │
 ├─────────────────────────────────────────┤
-│  Role    : Full Stack Developer         │
-│  Focus   : Web Apps & DSA               │
+│  Role    : Flutter & .NET Developer     │
+│  Focus   : Web Apps & Web Solutions     │
 │  Status  : Open to Opportunities        │
-│  Passion : Code · Build · Ship          │
+│  Passion : Code · Build · Deliver       │
 └─────────────────────────────────────────┘
 ```
 
@@ -65,17 +65,17 @@
 ### 🧬 &nbsp;Who Am I?
 
 <p align="left">
-  I'm <strong>Hemang Vaghela</strong> — a passionate Full Stack Developer who loves crafting<br/>
-  elegant solutions to complex problems. I blend creativity with logic<br/>
-  to build impactful digital experiences that users love. 🚀
+  I'm <strong>Hemang Vaghela</strong> — a passionate Flutter & .NET Developer who loves<br/>
+  building beautiful mobile apps and robust web solutions.<br/>
+I turn ideas into real-world products with clean code and great user experience. 🚀
 </p>
 
-- 🌱 &nbsp;**Currently mastering:** System Design, Cloud & Advanced DSA
-- 👯 &nbsp;**Looking to collaborate on:** Open Source & Full Stack Projects
+- 📱 &nbsp;**What I Do:** Build cross-platform mobile apps with Flutter and scalable web applications using .NET
+- 🪛 &nbsp;**Tech Stack:** Flutter, Dart, C#, ASP.NET Core, MVC, Web API, SQL Server, Firebase, REST APIs
+- 🤝 &nbsp;**Open to:** Full-time roles, freelance projects & collaborations
 - 💬 &nbsp;**Ask me about:** React, Node.js, Python, REST APIs & LeetCode
 - 🎯 &nbsp;**2025 Goal:** Crack top-tier interviews & ship 10+ projects
-- ⚡ &nbsp;**Fun fact:** I solve LeetCode problems before breakfast ☕
-
+- ⚡ &nbsp;**Fun fact:** I love turning complex problems into simple and elegant solutions 
 
 <br/>
 
