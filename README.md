@@ -185,9 +185,8 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/hemangvaghela6607/">
-  <img src="https://leetcard.jacoblin.cool/m1Xyd1Iqw0?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12&width=500" alt="LeetCode Stats" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/hemangvaghela6607?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12&width=500" alt="LeetCode Stats" width="500"/>
 </a>
-
 <br/><br/>
 
 <a href="https://leetcode.com/u/hemangvaghela6607/">
