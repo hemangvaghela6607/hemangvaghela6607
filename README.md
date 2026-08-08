@@ -1,12 +1,12 @@
 <!--Banner-->
 <div align="center">   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Hemang%20Vaghela&fontSize=65&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Hii,%20Hemang%20Vaghela&fontSize=65&fontColor=00BFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 </div>
 
 <!--Typing SVG-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Hemang+Vaghela!;%F0%9F%92%BB+Full+Stack+Developer+%26+DSA+Enthusiast;%F0%9F%9A%80+Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
+    <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Flutter+Developer;MERN+Stack+Developer;REST+API+Integration;Firebase+%7C+Riverpod+%7C+Provider;Building+Scalable+Mobile+Apps" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -158,7 +158,7 @@
 
 <div align="center">
   <a href="https://github.com/hemangvaghela6607">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangvaghela6607&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Hemang's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangvaghela6607&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Hemang's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
   </a>
 </div>
 
@@ -184,17 +184,17 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/m1Xyd1Iqw0/">
+<a href="https://leetcode.com/u/hemangvaghela6607/">
   <img src="https://leetcard.jacoblin.cool/m1Xyd1Iqw0?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12&width=500" alt="LeetCode Stats" width="500"/>
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/m1Xyd1Iqw0/">
+<a href="https://leetcode.com/u/hemangvaghela6607/">
   <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/m1Xyd1Iqw0/">
+<a href="https://leetcode.com/u/hemangvaghela6607/">
   <img src="https://img.shields.io/badge/DSA-Problem_Solver-e94560?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -215,6 +215,6 @@
 
 <!--Footer-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=20&fontColor=e94560&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=20&fontColor=00BFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
   <sub>Crafted with 💙 by <a href="https://github.com/hemangvaghela6607">Hemang</a></sub>
 </div>
