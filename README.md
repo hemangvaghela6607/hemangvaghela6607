@@ -158,7 +158,7 @@ I turn ideas into real-world products with clean code and great user experience.
 
 <div align="center">
   <a href="https://github.com/hemangvaghela6607">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangvaghela6607&bg_color=0d1117&color=00BFFF&title_color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
+    <img src="https://ghchart.rshah.org/00BFFF/hemangvaghela6607" width="100%" alt="Hemang's Contribution Graph"/>
   </a>
 </div>
 
