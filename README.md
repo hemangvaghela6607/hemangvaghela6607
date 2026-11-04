@@ -158,7 +158,7 @@ I turn ideas into real-world products with clean code and great user experience.
 
 <div align="center">
   <a href="https://github.com/hemangvaghela6607">
-    <img src="https://ghchart.rshah.org/000000/hemangvaghela6607" width="100%" alt="Hemang's Contribution Graph"/>
+    <img src="https://ghchart.rshah.org/008000/hemangvaghela6607" width="100%" alt="Hemang's Contribution Graph"/>
   </a>
 </div>
 
